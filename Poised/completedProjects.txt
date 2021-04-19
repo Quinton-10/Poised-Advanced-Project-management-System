@@ -1,0 +1,4 @@
+150, black, house, 11a haley ave, 123564, 30000.0, 2000.0, 27-05-2035, 11-05-2024, Finalised
+60, yellow, appartment, 24 red ave, 542361, 36000.0, 12000.0, 11-03-2021, 30-05-2021, Finalised
+55, Blue, office, 50 orange ave, 875642, 12000.0, 1000.0, 12-06-2025, 07-04-2021, Finalised
+420, gogo, house, 24 green road, 546231, 420550.0, 420.69, 10-03-2021, 11-05-2021, Finalised
